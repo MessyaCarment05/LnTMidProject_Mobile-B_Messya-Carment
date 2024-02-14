@@ -16,7 +16,6 @@ public class Motorcycle extends Kendaraan {
 	public void setHelm(int helm) {
 		this.helm = helm;
 	}
-
 	@Override
 	public void viewDetail() {
 		// TODO Auto-generated method stub
